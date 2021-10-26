@@ -1,0 +1,19 @@
+{
+  "name": "progressive-budget",
+  "version": "1.0.0",
+  "description": "progressive budget app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahid1010/Progressive-Budget.git"
+  },
+  "author": "Nahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahid1010/Progressive-Budget/issues"
+  },
+  "homepage": "https://github.com/Nahid1010/Progressive-Budget#readme"
+}
